@@ -1,0 +1,2 @@
+# SoundTouchConvert
+基于soundtouch将cmsamplerbuffer数据做一个变声处理后透传出去的库
